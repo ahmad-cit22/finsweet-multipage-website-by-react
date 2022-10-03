@@ -1,0 +1,99 @@
+.contactPageBox {
+    color: #282938;
+}
+
+.contactBoxHeader {
+    width: 45%;
+    margin: auto;
+}
+
+.contactBoxHeader p {
+    opacity: .8;
+    margin: 16px 0 64px;
+}
+
+.contactFormBox {
+    width: 80%;
+    margin: auto;
+    padding: 55px 75px 70px;
+    background: #f1f2fa;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+.contactFormBox form {
+    row-gap: 24px;
+    column-gap: 32px;
+    flex-wrap: wrap;
+}
+
+.contactFormBox .inpField {
+    width: 48%;
+}
+
+.contactFormBox label {
+    font-weight: 500;
+    display: block;
+    margin-bottom: 6px;
+    font-size: 18px;
+}
+
+.contactFormBox input, textarea {
+    font-size: 16px;
+    width: 100%;
+    outline: none;
+    margin-bottom: 16px;
+    border: 1px solid #1d29973f;
+    border-radius: 10px;
+    background: none;
+    padding: 18px 32px;
+    transition: .3s;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.contactFormBox input:hover, textarea:hover {
+    border-color: #19238096;
+}
+
+.contactFormBox .textArea {
+    height: 175px;
+    width: 100%;
+    margin-bottom: 36px;
+}
+
+.contactFormBox textarea {
+    height: 100%;
+}
+
+.contactFormBox button {
+    font-size: 18px;
+    line-height: 32px;
+    padding: 16px 64px;
+    background: #282938;
+    color: #F4F6FC;
+    border-radius: 41px;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+    transition: .3s;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+}
+
+.contactFormBox button:hover {
+    background: rgb(239, 207, 126);
+    color: #282938;
+}

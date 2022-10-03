@@ -1,0 +1,52 @@
+.bannerBox {
+    column-gap: 47px;
+    color: #fff;
+}
+
+.bannerTxtBox {
+    width: 40%;
+}
+
+.bannerTxtBox .textBig {
+    font-size: 54px;
+    line-height: 74px;
+}
+
+.bannerTxtBox>.textSmall {
+    margin: 24px 0 48px;
+    opacity: .8;
+}
+
+.bannerBtnBox {
+    width: 92%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bannerBtn {
+    padding: 16px 50px;
+    border-radius: 41px;
+    -webkit-border-radius: 41px;
+    -moz-border-radius: 41px;
+    -ms-border-radius: 41px;
+    -o-border-radius: 41px;
+}
+
+.bannerBtn i {
+    margin-left: 9px;
+    transition: .1s;
+    -webkit-transition: .1s;
+    -moz-transition: .1s;
+    -ms-transition: .1s;
+    -o-transition: .1s;
+}
+
+.bannerBtn:hover i {
+    color: #1B1C2B;
+}
+
+.bannerImgBox img {
+    margin-right: 15px;
+}
+
+/* banner css */

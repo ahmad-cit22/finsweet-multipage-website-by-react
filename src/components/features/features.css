@@ -1,0 +1,46 @@
+/* features css */
+.features {
+    background: #f1f2fa;
+}
+
+.featureTxts {
+    padding: 0 330px;
+}
+
+.featureTxts p {
+    font-size: 18px;
+}
+
+.featureHeading {
+    margin: 15px 0 47px;
+}
+
+.featureGallery {
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    column-gap: 32px;
+    row-gap: 35px;
+}
+
+.featureContents {
+    width: 405px;
+    height: 316px;
+    background: #fff;
+    padding: 58px 36px 48px 48px;
+}
+
+.featureContents i {
+    font-size: 30px;
+    color: #1c05b3;
+}
+
+.featureContents .textMedium {
+    font-size: 24px;
+    margin: 20px 0 12px;
+}
+
+.featureIcon img {
+    width: auto;
+}
+
+/* features css */

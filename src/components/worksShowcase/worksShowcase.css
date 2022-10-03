@@ -1,0 +1,185 @@
+/* works css */
+.works {
+    background: #f1f2fa;
+}
+
+.workBox {
+    width: 70%;
+    padding: 96px 0 70px;
+}
+
+.workBox span {
+    opacity: .8;
+    font-size: 18px;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.workBox p {
+    padding: 0 170px;
+    opacity: .8;
+    margin: 24px 0 32px;
+}
+
+.workIcons {
+    column-gap: 30px;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.workIcons a {
+    color: #282938;
+}
+
+.workIcons a:hover {
+    color: #353ab4;
+}
+
+/* works css */
+
+
+/* workShowcase css */
+
+.workShowcaseBox {
+    padding-bottom: 60px;
+}
+
+.workShowcaseNav {
+    padding: 96px 0 48px;
+}
+
+.workShowcaseNav .navItem {
+    padding-bottom: 0;
+}
+
+.workShowcaseNav .navItem ul {
+    justify-content: center;
+}
+
+.workShowcaseNav .navItem ul a {
+    color: #282938;
+    opacity: .8;
+}
+
+.workShowcaseNav .navItem ul a:hover {
+    color: #353ab4;
+    opacity: 1;
+}
+
+.workShowcaseNav .navItem ul a::after {
+    display: none;
+}
+
+.workShowcaseNav .navItem ul {
+    justify-content: center;
+}
+
+.workShowcaseNav .navActive {
+    color: #353ab4 !important;
+    opacity: 1 !important;
+}
+
+.workGallery {
+    flex-wrap: wrap;
+    row-gap: 72px;
+    column-gap: 34px;
+}
+
+.workDisplays {
+    width: 620px;
+}
+
+.workDisplayImg {
+    padding: 28px 40px;
+    background: linear-gradient(131.34deg, #F4EDE1 16.74%, #98B1C6 103.17%);
+}
+
+.workDisplayImg2 {
+    padding: 28px 40px;
+    background: linear-gradient(131.34deg, #FFD3AF 16.74%, #4F56FF 103.17%);
+}
+
+.workDisplayImg2 {
+    padding: 28px 40px;
+    background: linear-gradient(131.34deg, #EEBCA7 16.74%, #C8C8C8 103.17%);
+}
+
+.workDisplayImg2 {
+    padding: 28px 40px;
+    background: linear-gradient(131.34deg, #C2E7F2 16.74%, #98A4FF 103.17%);
+}
+
+.workDisplayImg2 {
+    padding: 28px 40px;
+    background: linear-gradient(131.34deg, #C5BCFF 16.74%, #9BF7D5 103.17%);
+}
+
+.workDisplayImg2 {
+    padding: 28px 40px;
+    background: linear-gradient(131.34deg, #D2D6FD 16.74%, #D6ACEA 103.17%);
+}
+
+.workDisplayImg img {
+    width: 100%;
+}
+
+
+.workHeading {
+    font-size: 38px;
+    line-height: 56px;
+    margin: 42px 0 16px;
+}
+
+.workDetails {
+    margin-bottom: 24px;
+    opacity: .9;
+}
+
+.workFooter a {
+    color: #282938;
+    text-decoration: none;
+}
+
+.workFooter a:hover {
+    color: #353ab4;
+}
+
+.workFooter a i {
+    color: #282938;
+    margin-left: 10px;
+}
+
+.workFooter a:hover i {
+    color: #353ab4;
+    margin-left: 16px;
+}
+
+.workShowcaseFooterCont {
+    background: #f1f2fa !important;
+}
+
+.workShowcaseFooter {
+    padding: 80px 0 100px;
+    width: 55%;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.workShowcaseFooter p {
+    width: 65%;
+    opacity: .8;
+    margin: 20px 0 40px;
+}
+
+.workBtn {
+    padding: 16px 66px;
+    align-self: center;
+}
+
+.workBtn:hover {
+    background: #eac25d;
+    color: #1B1C2B;
+}
+
+/* workShowcase css */

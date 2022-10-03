@@ -1,0 +1,45 @@
+/* Blog Banner css  */
+.blogBannerBox {
+    padding: 120px 0 60px;
+}
+
+.blogBannerBox p {
+    margin: 16px 0 32px;
+    opacity: .8;
+}
+
+.blogBannerBox p span {
+    font-size: 18px;
+    margin-right: 6px;
+}
+
+.blogBannerFooter {
+    width: 65%;
+    margin: auto;
+}
+
+.blogBannerFooter p {
+    margin: 48px 0 16px;
+    opacity: .8;
+}
+
+.blogBannerFooter a {
+    text-decoration: none;
+    color: #282938;
+}
+
+.blogBannerFooter a:hover {
+    color: #353ab4;
+}
+
+.blogBannerFooter a i {
+    color: #282938;
+    margin-left: 8px;
+}
+
+.blogBannerFooter a:hover i {
+    color: #353ab4;
+    margin-left: 15px;
+}
+
+/* Blog Banner css  */
