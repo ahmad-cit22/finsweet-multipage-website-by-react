@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/finsweet-multipage-website-by-react/static/css/main.295863b3.css",
-    "main.js": "/finsweet-multipage-website-by-react/static/js/main.b8ea4420.js",
+    "main.js": "/finsweet-multipage-website-by-react/static/js/main.36f86b80.js",
     "static/js/787.da2d5233.chunk.js": "/finsweet-multipage-website-by-react/static/js/787.da2d5233.chunk.js",
     "static/media/contact1.png": "/finsweet-multipage-website-by-react/static/media/contact1.5fb220aff12af6052e09.png",
     "static/media/slick.svg": "/finsweet-multipage-website-by-react/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/finsweet-multipage-website-by-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/finsweet-multipage-website-by-react/index.html",
     "main.295863b3.css.map": "/finsweet-multipage-website-by-react/static/css/main.295863b3.css.map",
-    "main.b8ea4420.js.map": "/finsweet-multipage-website-by-react/static/js/main.b8ea4420.js.map",
+    "main.36f86b80.js.map": "/finsweet-multipage-website-by-react/static/js/main.36f86b80.js.map",
     "787.da2d5233.chunk.js.map": "/finsweet-multipage-website-by-react/static/js/787.da2d5233.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.295863b3.css",
-    "static/js/main.b8ea4420.js"
+    "static/js/main.36f86b80.js"
   ]
 }
