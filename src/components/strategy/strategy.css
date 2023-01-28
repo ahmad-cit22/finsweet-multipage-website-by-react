@@ -1,0 +1,84 @@
+.about {
+    background: #f1f2fa;
+}
+
+.aboutBox {
+    column-gap: 200px;
+}
+
+.aboutTxt {
+    width: 55%;
+}
+
+.aboutTxtDetails {
+    margin: 16px 0;
+    width: 100%;
+}
+
+.aboutTxtFooter a {
+    color: #1B1C2B;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.aboutTxtFooter a:hover {
+    color: #2109bc;
+}
+
+.aboutTxtFooter i {
+    color: #1B1C2B;
+    margin-left: 10px;
+    transition: .3s;
+    -webkit-transition: .3s;
+    -moz-transition: .3s;
+    -ms-transition: .3s;
+    -o-transition: .3s;
+}
+
+.aboutTxtFooter a:hover i {
+    color: #2109bc;
+    margin-left: 16px;
+}
+
+.strategyBox {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+
+.strategies {
+    width: 340px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.strategyNum {
+    background: #2413F2;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    -ms-border-radius: 12px;
+    -o-border-radius: 12px;
+}
+
+.strategyNum span {
+    position: absolute;
+    font-size: 18px;
+    font-weight: 500;
+    color: #fff;
+    top: 26%;
+    left: 32%;
+}
+
+.strategies .textLarge {
+    margin: 16px 0 8px;
+}
+
+.strategies .textSmall {
+    margin: 0 0 60px;
+}

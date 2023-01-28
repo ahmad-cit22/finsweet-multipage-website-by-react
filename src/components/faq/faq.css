@@ -1,0 +1,91 @@
+/* FAQ css */
+.faq {
+    background: #f1f2fa;
+}
+
+
+.featuresFAQ {
+    background: #fff;
+}
+
+.faqBox {
+    column-gap: 110px;
+    align-items: flex-start;
+}
+
+.faqTxtBox h1 {
+    font-size: 38px;
+    line-height: 56px;
+    font-weight: 600;
+    margin: 22px 0 16px;
+    width: 93%;
+}
+
+.faqTxtBox a {
+    color: #282938;
+    font-size: 18px;
+    line-height: 32px;
+    text-decoration: none;
+}
+
+.faqTxtBox p:hover {
+    color: #2109bc;
+}
+
+.faqQsBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.faqQs {
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 32px 0;
+    border-bottom: 1px solid #dbdbf2;
+    padding-left: 16px;
+}
+
+.faqQs>p {
+    margin-right: 60px;
+    font-size: 24px;
+    color: #2405F2;
+    line-height: 36px;
+    font-weight: 500;
+}
+
+.qsField {
+    flex-direction: column;
+    align-items: flex-start;
+    row-gap: 16px;
+    width: 87%;
+}
+
+.firstQs {
+    padding-top: 0;
+}
+
+.qs {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.ans {
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+    width: 84%;
+}
+
+.faqQs i {
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.faqQs i:hover {
+    color: #2405F2;
+}
+
+/* FAQ css */

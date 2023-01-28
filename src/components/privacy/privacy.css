@@ -1,0 +1,51 @@
+.privacy {
+    background: #f1f2fa;
+}
+
+.privacyBox {
+    padding-bottom: 80px;
+}
+
+.privacyBoxHeader {
+    width: 45%;
+    margin: auto;
+}
+
+.privacyBoxHeader p {
+    opacity: .8;
+    margin: 16px 0 64px;
+}
+
+.privacyBoxMain {
+    width: 67%;
+    margin: auto;
+}
+
+.privacyBoxMain h1 {
+    font-size: 38px;
+    line-height: 56px;
+    display: block;
+    margin: 42px 0 32px;
+}
+
+.privacyBoxMain p {
+    text-align: justify;
+    opacity: .9;
+    margin: 16px 0 24px;
+}
+
+.privacyBoxMain p a {
+    color: #3f44c4;
+    text-decoration: none;
+}
+
+.privacyBoxMain ul {
+    margin-left: 40px;
+    margin-bottom: 19px;
+
+}
+
+.privacyBoxMain ul li {
+    margin-bottom: 16px;
+
+}

@@ -1,0 +1,16 @@
+.readBlogMain {
+    padding-bottom: 120px;
+}
+
+.readBlogHeading1st {
+    margin-top: 0 !important;
+}
+
+.readBlogImgBox img {
+    width: 100%;
+    margin: 10px 0 14px;
+}
+
+.readBlogParaLast {
+    margin-bottom: 0 !important;
+}
